@@ -1,0 +1,29 @@
+_repo: BurmaPeeps-at-Many-Lands_30064
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30064-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kelly, R. Talbot (Robert Talbot)
+    alias: Kelly, Robert Talbot
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '8169'
+    url: http://www.gutenberg.org/2009/agents/8169
+description: First published in 2012. Routledge is an imprint of Taylor & Francis,
+  an informa company.
+gutenberg_issued: '2009-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30064'
+  lccn: w08000154
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Burma -- Description and travel'
+title: 'Peeps at Many Lands: Burma'
+url: http://www.gutenberg.org/ebooks/30064
