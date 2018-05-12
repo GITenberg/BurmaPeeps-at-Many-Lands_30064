@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8169
 description: First published in 2012. Routledge is an imprint of Taylor & Francis,
   an informa company.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30064#BurmaPeeps-at-Many-Lands
 gutenberg_issued: '2009-09-22'
 gutenberg_type: Text
 identifiers:
